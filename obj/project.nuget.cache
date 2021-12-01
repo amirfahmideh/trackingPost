@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULETuHfl9aNUVkc3uhi4xbeFbmW/l+1F9EyS0HJtDXQqQVHyolw6JAG6II4R8VyEgWU1RGh8J0vslb+6rYiJyQ==",
+  "success": true,
+  "projectFilePath": "D:\\_Repositories\\_myGitHub\\trackingPost\\trackingPost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AmirFahmideh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\AmirFahmideh\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\AmirFahmideh\\.nuget\\packages\\selenium.webdriver.msedgedriver\\96.0.1054.26\\selenium.webdriver.msedgedriver.96.0.1054.26.nupkg.sha512"
+  ],
+  "logs": []
+}

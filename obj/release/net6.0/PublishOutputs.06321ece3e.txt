@@ -1,0 +1,7 @@
+D:\_Repositories\_myGitHub\trackingPost\bin\release\net6.0\publish\trackingPost.exe
+D:\_Repositories\_myGitHub\trackingPost\bin\release\net6.0\publish\trackingPost.dll
+D:\_Repositories\_myGitHub\trackingPost\bin\release\net6.0\publish\trackingPost.deps.json
+D:\_Repositories\_myGitHub\trackingPost\bin\release\net6.0\publish\trackingPost.runtimeconfig.json
+D:\_Repositories\_myGitHub\trackingPost\bin\release\net6.0\publish\trackingPost.pdb
+D:\_Repositories\_myGitHub\trackingPost\bin\release\net6.0\publish\Newtonsoft.Json.dll
+D:\_Repositories\_myGitHub\trackingPost\bin\release\net6.0\publish\WebDriver.dll
